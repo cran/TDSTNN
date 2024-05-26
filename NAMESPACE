@@ -1,0 +1,3 @@
+importFrom("nnet", "nnet")
+importFrom("stats", "predict")
+exportPattern("^[[:alpha:]]+")
